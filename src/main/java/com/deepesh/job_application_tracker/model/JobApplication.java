@@ -1,4 +1,4 @@
-package model;
+package com.deepesh.job_application_tracker.model;
 import jakarta.persistence.*;
 import java.time.LocalDate;
 
